@@ -1,0 +1,9 @@
+* README
+This is a project to familiarize myself with the spring framework working with
+the Cassandra databases. I do already know a little java, but this is also about
+relearning java.
+** The Project
+I am following tutorials and reading documentation to help me learn some
+material about the topics listed above. I am going to try to follow tutorials
+but also keep the idea as original as I possibly can to make sure I am
+understanding.
